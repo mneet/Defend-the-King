@@ -16,7 +16,7 @@ if (_mouse_sobre)
 	{
 		room_restart()
 		global.start = false;
-		global.gold_gastado  = 0;
+		global.gold_gasto  = 0;
 		global.recruta		 = 0;
 		global.arqueira	  	 = 0;
 		global.cavaleiro	 = 0;

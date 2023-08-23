@@ -7,10 +7,10 @@ if (obj_control.recorde = false)
 	//Pontos
 
 	//Desenhando pontos
-	draw_text(320, 95, "Gold total: " + string(global.gold + global.gold_gastado));
+	draw_text(320, 95, "Gold total: " + string(global.gold + global.gold_gasto));
 	
 	//Inimigos mortos
-	draw_text(320, 135, "Gold gastado: " + string(global.gold_gastado));
+	draw_text(320, 135, "Gold gasto: " + string(global.gold_gasto));
 	
 	//Mortes do player
 	draw_text(320, 195, "Minions criados: ");
@@ -29,8 +29,8 @@ else
 {
 	draw_set_font(fn_menu);
 	//Gold ganho e gastado
-	draw_text(320, 95, "Gold total: " + string(obj_control.rec_gold + obj_control.rec_gold_gastado));
-	draw_text(320, 135, "Gold gastado: " + string(obj_control.rec_gold_gastado));
+	draw_text(320, 95, "Gold total: " + string(obj_control.rec_gold + obj_control.rec_gold_gasto));
+	draw_text(320, 135, "Gold gasto: " + string(obj_control.rec_gold_gasto));
 	
 	//Minions Criados
 	draw_text(320, 195, "Minions criados: ");

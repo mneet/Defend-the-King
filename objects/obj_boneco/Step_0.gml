@@ -40,7 +40,7 @@ if (click_left && x <  dis)
 			instance_create_layer(x, y, "Minions", objeto);
 			global.gold -= custo;
 			global.start = true;
-			global.gold_gastado += custo;
+			global.gold_gasto += custo;
 							
 		}
 		else

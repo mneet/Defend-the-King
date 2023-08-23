@@ -3,7 +3,7 @@
 if (room != rm_placar)
 {
 	//Placar
-	global.gold_gastado  = 0;
+	global.gold_gasto  = 0;
 	global.recruta		 = 0;
 	global.arqueira	  	 = 0;
 	global.cavaleiro	 = 0;

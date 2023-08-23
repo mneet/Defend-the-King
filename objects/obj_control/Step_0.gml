@@ -7,7 +7,7 @@ if (room != rm_placar) instance_destroy(obj_placar);
 if (global.ini_mortos > rec_ini_mortos)
  {
 	rec_gold			= global.gold;
-	rec_gold_gastado	= global.gold_gastado;
+	rec_gold_gasto	= global.gold_gasto;
 	rec_recruta			= global.recruta;
 	rec_arqueira		= global.arqueira;
 	rec_cavaleiro		= global.cavaleiro;

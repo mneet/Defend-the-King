@@ -14,7 +14,7 @@ recorde = true;
 level_game = false;
 gameover_sq = 0;
 //Placar
-global.gold_gastado  = 0;
+global.gold_gasto  = 0;
 global.recruta		 = 0;
 global.arqueira	  	 = 0;
 global.cavaleiro	 = 0;
@@ -23,7 +23,7 @@ global.ini_mortos	 = 0;
 
 //Recorde
 rec_gold			= 0;
-rec_gold_gastado	= 0;
+rec_gold_gasto	= 0;
 rec_recruta			= 0;
 rec_arqueira		= 0;
 rec_cavaleiro		= 0;
