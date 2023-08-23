@@ -1,4 +1,5 @@
 # Defend-the-King
+![](https://github.com/mneet/Defend-the-King/blob/main/repoimg/gif-gameplay.gif)
 Olá, esse foi meu primeiro projeto independente, ele foi feito durante a NoneJam4.
 
 O jogo se baseia num "tower deffense", onde você proteje o Rei aliado contra as tropas inimigas. Ele é inspirado em jogos como: Plants vs Zombie, 
