@@ -1,14 +1,9 @@
-# Defend-the-King
-![](https://github.com/mneet/Defend-the-King/blob/main/repoimg/gif-gameplay.gif)
-Olá, esse foi meu primeiro projeto independente, ele foi feito durante a NoneJam4.
+# Defend the King
+![Gameplay](https://github.com/mneet/Defend-the-King/blob/main/repoimg/gif-gameplay.gif)
 
-O jogo se baseia num "tower deffense", onde você proteje o Rei aliado contra as tropas inimigas. Ele é inspirado em jogos como: Plants vs Zombie, 
-Clash of Clans e o Xadrez de Karazhan do WoW.
+## Sobre o Jogo
+**Defend the King** é o meu primeiro projeto independente, desenvolvido durante a NoneJam4. Este jogo é um jogo de defesa de torre ("tower defense") onde o seu objetivo é proteger o Rei aliado contra as tropas inimigas. Ele foi inspirado por jogos como Plants vs. Zombies, Clash of Clans e o xadrez de Karazhan do World of Warcraft.
 
-Minha ideia original era fazer um jogo mais parecido com um jogo de tabuleiro, com movimentação em Grid e mais variedades de combate, mas devido a falta de 
-conhecimento tecnico na epoca e pouco tempo disponivel, diversas ideia tiveram que ser alteradas ou cortadas. Um revamp desse projeto esta em contrução,
-se aproximando mais da ideia original, adicionando novas funções e melhorando outras já existentes.
+Minha ideia original era criar um jogo que se assemelhasse mais a um jogo de tabuleiro, com movimentação em um grid e uma variedade maior de opções de combate. No entanto, devido à minha limitação de conhecimento técnico na época e ao tempo limitado disponível, algumas ideias tiveram que ser alteradas ou descartadas. Atualmente, estou trabalhando em uma atualização para o jogo, que se aproxima mais da minha ideia original. Essa atualização adicionará novas funcionalidades e aprimorará as já existentes.
 
-Espero que gostem, muito obrigado!
-
-https://lioneet.itch.io/defend-the-king
+Espero que gostem do jogo! Muito obrigado por conferir.
